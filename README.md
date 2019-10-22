@@ -1,2 +1,2 @@
 # Unity_Personal_Excercises
-Contains Unity exercises covering various topics.
+Contains all Unity projects (Games and individual modules) that I've worked on.
